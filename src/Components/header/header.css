@@ -1,0 +1,30 @@
+.jumbotron{
+    background-image: linear-gradient(to right, rgba(3,37,75, 0.8) 0%, rgba(3,37,75, 0) 100%), url('http://image.tmdb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/5GISMqlRXMEyBrgEqyvhaMMuQmJ.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+    height:20rem;
+    border-radius:none;
+    width:80%;
+    margin-left: 10.5vw;
+}
+
+.heading-1{
+    color: #fff;
+    font-weight: 650;
+    text-align: left;
+    margin-left: 40px;
+    font-size: xx-large;
+    font-family: emoji;
+}
+.pos{
+    
+    font-family: cursive;
+font-size: medium;
+color: initial;
+text-decoration: none;
+}
+.search-btn{
+    position: absolute;
+    
+}

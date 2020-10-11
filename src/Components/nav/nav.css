@@ -1,0 +1,18 @@
+.blue{
+    background: rgba(3,37,75,1);
+    text-decoration: none;
+    color:#fff;
+    text-shadow: 0 1px 0;
+    text-align: center;
+    
+    
+}
+.nav-link{
+    text-decoration: none;
+    color:#fff;
+
+}
+.nav-link:hover{
+    color: red;
+    text-decoration: none;
+}

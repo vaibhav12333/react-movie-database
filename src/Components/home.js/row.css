@@ -1,0 +1,10 @@
+.poprow{
+    border: 1px solid white;
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: none;
+}
+.image{
+    height: 15rem;
+    border-radius: 5px;
+}
