@@ -131,6 +131,7 @@ class Main extends Component{
             <Route path='/people'><People people={this.state.people} handleClick={this.handlePeopleClick}/></Route> 
             </div>
                </Switch>
+               <Redirect to='/home' />
            
             </React.Fragment>
         )
